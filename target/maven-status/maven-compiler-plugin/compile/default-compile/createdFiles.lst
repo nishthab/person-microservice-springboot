@@ -1,0 +1,15 @@
+com\nmspringstack\service\PersonEventListerner.class
+com\nmspringstack\domain\RESTAPIErrorInfo.class
+com\nmspringstack\service\PersonServiceEvent.class
+com\nmspringstack\exception\HTTP400Exception.class
+com\nmspringstack\service\PersonService.class
+com\nmspringstack\SpringBootPersonMicroservice.class
+com\nmspringstack\service\PersonServiceHealth.class
+com\nmspringstack\RestControllerAspect.class
+com\nmspringstack\dao\jpa\TODORepository.class
+com\nmspringstack\exception\HTTP404Exception.class
+com\nmspringstack\domain\Person.class
+com\nmspringstack\service\ServiceProperties.class
+com\nmspringstack\api\rest\AbstractRestHandler.class
+com\nmspringstack\api\rest\PersonController.class
+com\nmspringstack\dao\jpa\PersonRepository.class
